@@ -18,7 +18,7 @@ WORKDIR /app
 COPY . .
 
 # Compilar el proyecto
-RUN mpicc -Wall -O2 -o bruteforce src/sample/bruteforce.c -lcrypt
+RUN mpicc -Wall -O2 -o bruteforce src/sample/bruteforce.c -lcrypt -lm
 
 # Comando por defecto con configuraciones MPI apropiadas para Docker
 CMD ["mpirun", "--allow-run-as-root", "--oversubscribe", "-np", "4", "./bruteforce"]

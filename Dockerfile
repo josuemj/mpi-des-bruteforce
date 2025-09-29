@@ -14,6 +14,9 @@ RUN apt-get update && apt-get install -y \
 # Establecer directorio de trabajo
 WORKDIR /app
 
+# Crear directorios para input y output
+RUN mkdir -p input output
+
 # Copiar archivos del proyecto
 COPY . .
 

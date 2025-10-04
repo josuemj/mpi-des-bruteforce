@@ -1,6 +1,7 @@
 # MPI DES Bruteforce
 
 A parallel brute-force program for DES encryption/decryption using MPI (Message Passing Interface). This tool can encrypt text files with a known key or decrypt files using brute-force attack with MPI parallelization.
+For computacion paralela
 
 ## Prerequisites
 

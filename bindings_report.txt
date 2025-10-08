@@ -1,0 +1,4 @@
+[Dell-g15:102294] MCW rank 0 is not bound (or bound to all available processors)
+[Dell-g15:102294] MCW rank 1 is not bound (or bound to all available processors)
+[Dell-g15:102294] MCW rank 2 is not bound (or bound to all available processors)
+[Dell-g15:102294] MCW rank 3 is not bound (or bound to all available processors)

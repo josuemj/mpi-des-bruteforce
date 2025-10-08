@@ -1,0 +1,9 @@
+Buscando con 2 procesos MPI
+Archivo: brute_force_input/msg_smoke.bin (48 bytes)
+Palabra clave: 'secreto'
+
+=== ENCONTRADA ===
+Clave: 12345
+Tiempo: 0.146303 segundos
+Mensaje: mensaje de prueba para smoke test secreto
+

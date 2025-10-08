@@ -1,0 +1,10 @@
+timestamp,host,file,processes,found_key,time_seconds,message_sample
+2025-10-08T17:02:48,Dell-g15,msg_smoke_P1_run1.log,1,12345,0.006929,mensaje de prueba para smoke test secreto
+2025-10-08T17:02:48,Dell-g15,msg_smoke_P1_run2.log,1,12345,0.006935,mensaje de prueba para smoke test secreto
+2025-10-08T17:02:49,Dell-g15,msg_smoke_P1_run3.log,1,12345,0.006803,mensaje de prueba para smoke test secreto
+2025-10-08T17:02:49,Dell-g15,msg_smoke_P2_run1.log,2,12345,0.145671,mensaje de prueba para smoke test secreto
+2025-10-08T17:02:50,Dell-g15,msg_smoke_P2_run2.log,2,12345,0.146935,mensaje de prueba para smoke test secreto
+2025-10-08T17:02:51,Dell-g15,msg_smoke_P2_run3.log,2,12345,0.146303,mensaje de prueba para smoke test secreto
+2025-10-08T17:02:51,Dell-g15,msg_smoke_P4_run1.log,4,12345,0.149658,mensaje de prueba para smoke test secreto
+2025-10-08T17:02:52,Dell-g15,msg_smoke_P4_run2.log,4,12345,0.150144,mensaje de prueba para smoke test secreto
+2025-10-08T17:02:53,Dell-g15,msg_smoke_P4_run3.log,4,12345,0.157776,mensaje de prueba para smoke test secreto
